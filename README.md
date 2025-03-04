@@ -22,10 +22,12 @@ pip install opencv-python mediapipe
 
 pip list | grep opencv-python
 
+## 運行
+
+python main.py
+
 ## 退出虛擬環境
 
 deactivate
 
-## 運行
 
-python main.py
